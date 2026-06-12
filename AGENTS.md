@@ -48,3 +48,5 @@ from it. Don't hand-roll file paths — the skills keep the format consistent.
 - Never put secrets (API keys, passwords) into `memory/` or any committed file.
 - Stay within the free / cheap model tier unless told otherwise — this is a hackathon
   budget, not a blank cheque.
+
+  .
